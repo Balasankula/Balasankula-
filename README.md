@@ -1,4 +1,3 @@
-# Balasankula-
 # 💫 About Me:
 🔭 I’m currently working on improving my skills in data analysis, and AI-based projects, while gaining industry experience as an operations professional in a startup environment.<br>👯 I’m looking to collaborate on Product manager, Python, data analytics,sql, aws, DevOps or beginner-friendly open-source projects where I can contribute and learn.<br>🤝 I’m looking for help with advanced data analytics, real-world project building, and marketing/domain transition opportunities.<br>🌱 I’m currently learning Python, React, data analytics tools, and product managment fundamentals to transition into tech and data-driven roles.<br>💬 Ask me about career transitions, internships, startups, React basics, or learning tech from a non-CS background.<br>⚡ Fun fact: I’m a mechanical engineer turned tech enthusiast who enjoys building projects, learning philosophy, and lifting weights.
 
